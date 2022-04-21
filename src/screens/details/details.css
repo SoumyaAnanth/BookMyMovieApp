@@ -1,0 +1,61 @@
+.back-button{
+    margin-left:24px;
+    margin-top:8px;
+    margin-bottom: 0px;
+    height: 24px;
+}
+
+.link{
+    cursor:'pointer';
+    text-decoration:none;
+}
+
+.flex-container{
+    display: flex;
+}
+.left{
+    display: flex;
+    width: 20%;
+    height: 350px
+}
+.movie-image{
+    /* width:100%; */
+    margin: 16px;
+}
+.middle{
+    display: flex;
+    width: 60%;
+}
+.mid-section{
+    margin: 16px !important;
+    width:100%;
+}
+.right{
+    display: flex;
+    width: 20%;
+}
+.bold{
+    font-weight: bold;
+}
+.plot{
+    font-weight: bold;
+    margin-top: 16px;
+}
+.trailer{
+    margin: 16px 0px 16px 0px !important;
+}
+
+.right-section{
+    margin: 16px;
+}
+.yellow{
+    color:yellow
+}
+.black{
+    color:black;
+}
+.asrtists{
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}

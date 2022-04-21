@@ -1,0 +1,36 @@
+.heading{
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+.gridList{
+    width: 500;
+    height: 450;
+}
+
+.grid{
+    display: 'flex';
+    overflow: 'hidden'
+}
+.gridList{
+    transform: 'translateZ(0)';
+}
+.paper{
+    overflow-x: scroll;
+    white-space: nowrap;
+    display: inline-block;
+}
+.released{
+    width: 76%;
+    display: flex;
+    float:left;
+}
+.filter{
+    width: 24%;
+    display: flex;
+}
+
+.image{
+    cursor: pointer;
+}
